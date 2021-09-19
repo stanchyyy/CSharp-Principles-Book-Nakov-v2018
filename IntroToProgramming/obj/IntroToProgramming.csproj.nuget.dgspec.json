@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\IntroToProgramming\\IntroToProgramming\\IntroToProgramming.csproj": {}
+    "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\IntroToProgramming\\IntroToProgramming.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\IntroToProgramming\\IntroToProgramming\\IntroToProgramming.csproj": {
+    "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\IntroToProgramming\\IntroToProgramming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\IntroToProgramming\\IntroToProgramming\\IntroToProgramming.csproj",
+        "projectUniqueName": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\IntroToProgramming\\IntroToProgramming.csproj",
         "projectName": "IntroToProgramming",
-        "projectPath": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\IntroToProgramming\\IntroToProgramming\\IntroToProgramming.csproj",
+        "projectPath": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\IntroToProgramming\\IntroToProgramming.csproj",
         "packagesPath": "C:\\Users\\Stani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\IntroToProgramming\\IntroToProgramming\\obj\\",
+        "outputPath": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\IntroToProgramming\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

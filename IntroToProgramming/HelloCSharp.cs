@@ -6,6 +6,7 @@ namespace IntroToProgramming
     {
         static void Main(string[] args)
         {
+            throw new NotImplementedException("Intended exception");
             Console.WriteLine("Hello C#");
         }
     }

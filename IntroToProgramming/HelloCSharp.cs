@@ -2,7 +2,7 @@
 
 namespace IntroToProgramming
 {
-    class Program
+    class HelloCSharp
     {
         static void Main(string[] args)
         {

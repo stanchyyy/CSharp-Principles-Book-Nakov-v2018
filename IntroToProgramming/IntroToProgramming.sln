@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.HW_ConsoleWritelineDocumentation", "..\HW_ConsoleWritelineDocumentation\2.HW_ConsoleWritelineDocumentation.csproj", "{4C8B942A-61FA-45F3-9538-F46FE5D68959}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.HW_ConsoleWritelineDocumentation", "..\HW_ConsoleWritelineDocumentation\2.HW_ConsoleWritelineDocumentation.csproj", "{4C8B942A-61FA-45F3-9538-F46FE5D68959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.HW_ConsoleWritelineMethodsDocumentation", "..\HW_ConsoleWritelineMethodsDocumentation\3.HW_ConsoleWritelineMethodsDocumentation.csproj", "{790E7426-16DB-4DC9-8EDA-4EDEEC96E5BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.HW_ConsoleWritelineMethodsDocumentation", "..\HW_ConsoleWritelineMethodsDocumentation\3.HW_ConsoleWritelineMethodsDocumentation.csproj", "{790E7426-16DB-4DC9-8EDA-4EDEEC96E5BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.HW_EditHelloCSharp", "..\HW_EditHelloCSharp\5.HW_EditHelloCSharp.csproj", "{3AA9F2D9-C020-4BF4-BEBD-C6716BB86462}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.HW_EditHelloCSharp", "..\HW_EditHelloCSharp\5.HW_EditHelloCSharp.csproj", "{3AA9F2D9-C020-4BF4-BEBD-C6716BB86462}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.HW_HelloCSharp", "..\HW_HelloCSharp\4.HW_HelloCSharp.csproj", "{79E41111-E9AC-4154-A35F-42C6876F44AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.HW_HelloCSharp", "..\HW_HelloCSharp\4.HW_HelloCSharp.csproj", "{79E41111-E9AC-4154-A35F-42C6876F44AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.HW_MicrosoftVisualStudio", "..\HW_MicrosoftVisualStudio\1.HW_MicrosoftVisualStudio.csproj", "{D11CC52C-28C2-4032-B4C8-DDB8FAC77A02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.HW_MicrosoftVisualStudio", "..\HW_MicrosoftVisualStudio\1.HW_MicrosoftVisualStudio.csproj", "{D11CC52C-28C2-4032-B4C8-DDB8FAC77A02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.HW_ConsoleWriteNames", "..\6.HW_ConsoleWriteNames\6.HW_ConsoleWriteNames.csproj", "{E688D48A-00F3-4694-A3C3-B1458E2FC2F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.HW_ConsoleWriteNames", "..\6.HW_ConsoleWriteNames\6.HW_ConsoleWriteNames.csproj", "{E688D48A-00F3-4694-A3C3-B1458E2FC2F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.HW_Print11011001", "..\6.HW_Print11011001\7.HW_Print11011001.csproj", "{4034F582-34ED-4175-B28E-307A7391096F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.HW_Print11011001", "..\6.HW_Print11011001\7.HW_Print11011001.csproj", "{4034F582-34ED-4175-B28E-307A7391096F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.HW_PrintCurrentDateTime", "..\8.HW_PrintCurrentDateTime\8.HW_PrintCurrentDateTime.csproj", "{5DFE0E3D-34DF-4E99-A51E-690D3B131D2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.HW_PrintCurrentDateTime", "..\8.HW_PrintCurrentDateTime\8.HW_PrintCurrentDateTime.csproj", "{5DFE0E3D-34DF-4E99-A51E-690D3B131D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.HW_FindSQRT12345", "9.HW_FindSQRT12345\9.HW_FindSQRT12345.csproj", "{2CC0093B-1977-470B-9F92-5304A8F0C3B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{5DFE0E3D-34DF-4E99-A51E-690D3B131D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DFE0E3D-34DF-4E99-A51E-690D3B131D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DFE0E3D-34DF-4E99-A51E-690D3B131D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC0093B-1977-470B-9F92-5304A8F0C3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC0093B-1977-470B-9F92-5304A8F0C3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC0093B-1977-470B-9F92-5304A8F0C3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC0093B-1977-470B-9F92-5304A8F0C3B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

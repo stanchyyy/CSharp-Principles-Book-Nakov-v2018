@@ -6,6 +6,9 @@ namespace _6.HW_ConsoleWriteNames
     {
         static void Main(string[] args)
         {
+            //Task: 6. Write program that prints your first and last name on the console.
+            //Solution:
+
             string firstName = "Stanislav";
             string lastName = "Atanasov";
 

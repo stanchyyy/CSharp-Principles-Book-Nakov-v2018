@@ -1,0 +1,13 @@
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\6.HW_Print11011001\bin\Debug\netcoreapp3.1\7.HW_Print11011001.exe
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\6.HW_Print11011001\bin\Debug\netcoreapp3.1\7.HW_Print11011001.deps.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\6.HW_Print11011001\bin\Debug\netcoreapp3.1\7.HW_Print11011001.runtimeconfig.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\6.HW_Print11011001\bin\Debug\netcoreapp3.1\7.HW_Print11011001.runtimeconfig.dev.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\6.HW_Print11011001\bin\Debug\netcoreapp3.1\7.HW_Print11011001.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\6.HW_Print11011001\bin\Debug\netcoreapp3.1\7.HW_Print11011001.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\6.HW_Print11011001\obj\Debug\netcoreapp3.1\7.HW_Print11011001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\6.HW_Print11011001\obj\Debug\netcoreapp3.1\7.HW_Print11011001.AssemblyInfoInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\6.HW_Print11011001\obj\Debug\netcoreapp3.1\7.HW_Print11011001.AssemblyInfo.cs
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\6.HW_Print11011001\obj\Debug\netcoreapp3.1\7.HW_Print11011001.csproj.CoreCompileInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\6.HW_Print11011001\obj\Debug\netcoreapp3.1\7.HW_Print11011001.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\6.HW_Print11011001\obj\Debug\netcoreapp3.1\7.HW_Print11011001.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\6.HW_Print11011001\obj\Debug\netcoreapp3.1\7.HW_Print11011001.genruntimeconfig.cache

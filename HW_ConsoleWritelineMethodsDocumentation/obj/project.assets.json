@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_ConsoleWritelineMethodsDocumentation\\HW_ConsoleWritelineMethodsDocumentation.csproj",
-      "projectName": "HW_ConsoleWritelineMethodsDocumentation",
-      "projectPath": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_ConsoleWritelineMethodsDocumentation\\HW_ConsoleWritelineMethodsDocumentation.csproj",
+      "projectUniqueName": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_ConsoleWritelineMethodsDocumentation\\3.HW_ConsoleWritelineMethodsDocumentation.csproj",
+      "projectName": "3.HW_ConsoleWritelineMethodsDocumentation",
+      "projectPath": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_ConsoleWritelineMethodsDocumentation\\3.HW_ConsoleWritelineMethodsDocumentation.csproj",
       "packagesPath": "C:\\Users\\Stani\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_ConsoleWritelineMethodsDocumentation\\obj\\",
       "projectStyle": "PackageReference",

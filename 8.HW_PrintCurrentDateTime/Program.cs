@@ -6,7 +6,9 @@ namespace _8.HW_PrintCurrentDateTime
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Task:8. Write program that prints the cuurerent date and time;
+            DateTime nowDateAndTime = DateTime.Now;
+            Console.WriteLine(nowDateAndTime);
         }
     }
 }

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_EditHelloCSharp\\HW_EditHelloCSharp.csproj",
-      "projectName": "HW_EditHelloCSharp",
-      "projectPath": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_EditHelloCSharp\\HW_EditHelloCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_EditHelloCSharp\\5.HW_EditHelloCSharp.csproj",
+      "projectName": "5.HW_EditHelloCSharp",
+      "projectPath": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_EditHelloCSharp\\5.HW_EditHelloCSharp.csproj",
       "packagesPath": "C:\\Users\\Stani\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_EditHelloCSharp\\obj\\",
       "projectStyle": "PackageReference",

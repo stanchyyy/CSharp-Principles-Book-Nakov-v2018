@@ -1,0 +1,13 @@
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\8.HW_PrintCurrentDateTime\bin\Debug\netcoreapp3.1\8.HW_PrintCurrentDateTime.exe
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\8.HW_PrintCurrentDateTime\bin\Debug\netcoreapp3.1\8.HW_PrintCurrentDateTime.deps.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\8.HW_PrintCurrentDateTime\bin\Debug\netcoreapp3.1\8.HW_PrintCurrentDateTime.runtimeconfig.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\8.HW_PrintCurrentDateTime\bin\Debug\netcoreapp3.1\8.HW_PrintCurrentDateTime.runtimeconfig.dev.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\8.HW_PrintCurrentDateTime\bin\Debug\netcoreapp3.1\8.HW_PrintCurrentDateTime.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\8.HW_PrintCurrentDateTime\bin\Debug\netcoreapp3.1\8.HW_PrintCurrentDateTime.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\8.HW_PrintCurrentDateTime\obj\Debug\netcoreapp3.1\8.HW_PrintCurrentDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\8.HW_PrintCurrentDateTime\obj\Debug\netcoreapp3.1\8.HW_PrintCurrentDateTime.AssemblyInfoInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\8.HW_PrintCurrentDateTime\obj\Debug\netcoreapp3.1\8.HW_PrintCurrentDateTime.AssemblyInfo.cs
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\8.HW_PrintCurrentDateTime\obj\Debug\netcoreapp3.1\8.HW_PrintCurrentDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\8.HW_PrintCurrentDateTime\obj\Debug\netcoreapp3.1\8.HW_PrintCurrentDateTime.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\8.HW_PrintCurrentDateTime\obj\Debug\netcoreapp3.1\8.HW_PrintCurrentDateTime.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\8.HW_PrintCurrentDateTime\obj\Debug\netcoreapp3.1\8.HW_PrintCurrentDateTime.genruntimeconfig.cache

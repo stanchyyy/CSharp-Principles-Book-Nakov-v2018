@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_MicrosoftVisualStudio\\HW_MicrosoftVisualStudio.csproj",
-      "projectName": "HW_MicrosoftVisualStudio",
-      "projectPath": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_MicrosoftVisualStudio\\HW_MicrosoftVisualStudio.csproj",
+      "projectUniqueName": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_MicrosoftVisualStudio\\1.HW_MicrosoftVisualStudio.csproj",
+      "projectName": "1.HW_MicrosoftVisualStudio",
+      "projectPath": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_MicrosoftVisualStudio\\1.HW_MicrosoftVisualStudio.csproj",
       "packagesPath": "C:\\Users\\Stani\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Stani\\Desktop\\CSharp-Principles-Book-Nakov-v2018\\HW_MicrosoftVisualStudio\\obj\\",
       "projectStyle": "PackageReference",

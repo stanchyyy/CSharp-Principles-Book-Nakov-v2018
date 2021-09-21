@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.HW_MicrosoftVisualStudio"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.HW_ConsoleWriteNames", "..\6.HW_ConsoleWriteNames\6.HW_ConsoleWriteNames.csproj", "{E688D48A-00F3-4694-A3C3-B1458E2FC2F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.HW_Print11011001", "..\6.HW_Print11011001\6.HW_Print11011001.csproj", "{4034F582-34ED-4175-B28E-307A7391096F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.HW_Print11011001", "..\6.HW_Print11011001\7.HW_Print11011001.csproj", "{4034F582-34ED-4175-B28E-307A7391096F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

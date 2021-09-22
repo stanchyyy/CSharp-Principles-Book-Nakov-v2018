@@ -21,6 +21,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.HW_PrintCurrentDateTime",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.HW_FindSQRT12345", "9.HW_FindSQRT12345\9.HW_FindSQRT12345.csproj", "{2CC0093B-1977-470B-9F92-5304A8F0C3B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.HW_FindFirst100Members", "10.HW_FindFirst100Members\10.HW_FindFirst100Members.csproj", "{F54F9C42-26C0-431F-AA6C-CD44340ACCC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.HW_ConsoleWriteLineAngeAndAgeAfter10Years", "11.HW_ConsoleWriteLineAngeAndAgeAfter10Years\11.HW_ConsoleWriteLineAngeAndAgeAfter10Years.csproj", "{F1C43E86-11DB-4AE3-AC7F-BE07358B0093}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{2CC0093B-1977-470B-9F92-5304A8F0C3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CC0093B-1977-470B-9F92-5304A8F0C3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CC0093B-1977-470B-9F92-5304A8F0C3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54F9C42-26C0-431F-AA6C-CD44340ACCC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54F9C42-26C0-431F-AA6C-CD44340ACCC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54F9C42-26C0-431F-AA6C-CD44340ACCC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54F9C42-26C0-431F-AA6C-CD44340ACCC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C43E86-11DB-4AE3-AC7F-BE07358B0093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C43E86-11DB-4AE3-AC7F-BE07358B0093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C43E86-11DB-4AE3-AC7F-BE07358B0093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C43E86-11DB-4AE3-AC7F-BE07358B0093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

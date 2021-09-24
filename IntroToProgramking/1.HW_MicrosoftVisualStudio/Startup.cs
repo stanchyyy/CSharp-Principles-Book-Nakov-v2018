@@ -2,7 +2,7 @@
 
 namespace _1.HW_MicrosoftVisualStudio
 {
-    class Program
+    class Startup
     {
         static void Main(string[] args)
         {

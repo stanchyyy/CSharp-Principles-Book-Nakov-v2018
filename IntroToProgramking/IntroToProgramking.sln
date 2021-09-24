@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.HW_MicrosoftVisualStudio"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.HW_ConsoleWritelineDocumentation", "2.HW_ConsoleWritelineDocumentation\2.HW_ConsoleWritelineDocumentation.csproj", "{A0286E6C-3356-4211-89F0-7ACE535277F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.HW_ConsoleWritelineMethodsDocumentation", "3.HW_ConsoleWritelineMethodsDocumentation\3.HW_ConsoleWritelineMethodsDocumentation.csproj", "{B49E9E06-76AA-4FB8-9E94-E02BD9564523}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A0286E6C-3356-4211-89F0-7ACE535277F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0286E6C-3356-4211-89F0-7ACE535277F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0286E6C-3356-4211-89F0-7ACE535277F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49E9E06-76AA-4FB8-9E94-E02BD9564523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49E9E06-76AA-4FB8-9E94-E02BD9564523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49E9E06-76AA-4FB8-9E94-E02BD9564523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49E9E06-76AA-4FB8-9E94-E02BD9564523}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

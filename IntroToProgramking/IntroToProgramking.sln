@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.HW_ConsoleWritelineMethod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.HW_HelloCSharp", "4.HW_HelloCSharp\4.HW_HelloCSharp.csproj", "{29C406B4-9DE0-4399-BDE9-96152470D504}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.HW_EditHelloCSharp", "5.HW_EditHelloCSharp\5.HW_EditHelloCSharp.csproj", "{AEB939C4-4498-4388-ADB6-1425DAE700C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{29C406B4-9DE0-4399-BDE9-96152470D504}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29C406B4-9DE0-4399-BDE9-96152470D504}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29C406B4-9DE0-4399-BDE9-96152470D504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB939C4-4498-4388-ADB6-1425DAE700C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB939C4-4498-4388-ADB6-1425DAE700C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB939C4-4498-4388-ADB6-1425DAE700C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB939C4-4498-4388-ADB6-1425DAE700C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.HW_ConsoleWriteNames", "6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.HW_Print11011001", "7.HW_Print11011001\7.HW_Print11011001.csproj", "{9C34BE62-C777-4B63-9194-F0C431DBA543}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.HW_PrintCurrentDateTime", "8.HW_PrintCurrentDateTime\8.HW_PrintCurrentDateTime.csproj", "{D98DD98A-8218-4C7B-B479-B87A2E59391F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.HW_FindSQRT12345", "9.HW_FindSQRT12345\9.HW_FindSQRT12345.csproj", "{6CD39EE7-D235-441B-8A5C-81E1DE639B46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{9C34BE62-C777-4B63-9194-F0C431DBA543}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C34BE62-C777-4B63-9194-F0C431DBA543}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C34BE62-C777-4B63-9194-F0C431DBA543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D98DD98A-8218-4C7B-B479-B87A2E59391F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98DD98A-8218-4C7B-B479-B87A2E59391F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98DD98A-8218-4C7B-B479-B87A2E59391F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98DD98A-8218-4C7B-B479-B87A2E59391F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD39EE7-D235-441B-8A5C-81E1DE639B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD39EE7-D235-441B-8A5C-81E1DE639B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD39EE7-D235-441B-8A5C-81E1DE639B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD39EE7-D235-441B-8A5C-81E1DE639B46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

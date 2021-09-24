@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.HW_ExplainNetCoreAndStan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.HW_MostPopularProgrammingLanguages", "13.HW_MostPopularProgrammingLanguages\13.HW_MostPopularProgrammingLanguages.csproj", "{2692260F-85D5-49C0-9797-BBE0EF79E1D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.HW_DecompileHelloWorld", "14.HW_DecompileHelloWorld\14.HW_DecompileHelloWorld.csproj", "{0E502873-C678-4AC2-BCBA-95B29859DAC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{2692260F-85D5-49C0-9797-BBE0EF79E1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2692260F-85D5-49C0-9797-BBE0EF79E1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2692260F-85D5-49C0-9797-BBE0EF79E1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E502873-C678-4AC2-BCBA-95B29859DAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E502873-C678-4AC2-BCBA-95B29859DAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E502873-C678-4AC2-BCBA-95B29859DAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E502873-C678-4AC2-BCBA-95B29859DAC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\bin\Debug\netcoreapp3.1\4.HW_HelloCSharp.exe
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\bin\Debug\netcoreapp3.1\4.HW_HelloCSharp.deps.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\bin\Debug\netcoreapp3.1\4.HW_HelloCSharp.runtimeconfig.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\bin\Debug\netcoreapp3.1\4.HW_HelloCSharp.runtimeconfig.dev.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\bin\Debug\netcoreapp3.1\4.HW_HelloCSharp.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\bin\Debug\netcoreapp3.1\4.HW_HelloCSharp.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\obj\Debug\netcoreapp3.1\4.HW_HelloCSharp.csproj.AssemblyReference.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\obj\Debug\netcoreapp3.1\4.HW_HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\obj\Debug\netcoreapp3.1\4.HW_HelloCSharp.AssemblyInfoInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\obj\Debug\netcoreapp3.1\4.HW_HelloCSharp.AssemblyInfo.cs
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\obj\Debug\netcoreapp3.1\4.HW_HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\obj\Debug\netcoreapp3.1\4.HW_HelloCSharp.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\obj\Debug\netcoreapp3.1\4.HW_HelloCSharp.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\4.HW_HelloCSharp\obj\Debug\netcoreapp3.1\4.HW_HelloCSharp.genruntimeconfig.cache

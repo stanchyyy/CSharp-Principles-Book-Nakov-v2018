@@ -1,0 +1,14 @@
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\bin\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.exe
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\bin\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.deps.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\bin\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.runtimeconfig.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\bin\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.runtimeconfig.dev.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\bin\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\bin\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\obj\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.csproj.AssemblyReference.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\obj\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\obj\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.AssemblyInfoInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\obj\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.AssemblyInfo.cs
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\obj\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.csproj.CoreCompileInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\obj\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\obj\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\3.HW_ConsoleWritelineMethodsDocumentation\obj\Debug\netcoreapp3.1\3.HW_ConsoleWritelineMethodsDocumentation.genruntimeconfig.cache

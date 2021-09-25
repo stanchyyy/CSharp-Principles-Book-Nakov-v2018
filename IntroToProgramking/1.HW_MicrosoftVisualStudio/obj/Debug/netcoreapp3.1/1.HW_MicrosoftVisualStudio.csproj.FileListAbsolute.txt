@@ -1,0 +1,14 @@
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\bin\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.exe
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\bin\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.deps.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\bin\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.runtimeconfig.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\bin\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.runtimeconfig.dev.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\bin\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\bin\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\obj\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.csproj.AssemblyReference.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\obj\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\obj\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.AssemblyInfoInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\obj\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.AssemblyInfo.cs
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\obj\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\obj\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\obj\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\1.HW_MicrosoftVisualStudio\obj\Debug\netcoreapp3.1\1.HW_MicrosoftVisualStudio.genruntimeconfig.cache

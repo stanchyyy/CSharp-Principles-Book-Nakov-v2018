@@ -1,0 +1,13 @@
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\5.HW_EditHelloCSharp\bin\Debug\netcoreapp3.1\5.HW_EditHelloCSharp.exe
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\5.HW_EditHelloCSharp\bin\Debug\netcoreapp3.1\5.HW_EditHelloCSharp.deps.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\5.HW_EditHelloCSharp\bin\Debug\netcoreapp3.1\5.HW_EditHelloCSharp.runtimeconfig.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\5.HW_EditHelloCSharp\bin\Debug\netcoreapp3.1\5.HW_EditHelloCSharp.runtimeconfig.dev.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\5.HW_EditHelloCSharp\bin\Debug\netcoreapp3.1\5.HW_EditHelloCSharp.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\5.HW_EditHelloCSharp\bin\Debug\netcoreapp3.1\5.HW_EditHelloCSharp.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\5.HW_EditHelloCSharp\obj\Debug\netcoreapp3.1\5.HW_EditHelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\5.HW_EditHelloCSharp\obj\Debug\netcoreapp3.1\5.HW_EditHelloCSharp.AssemblyInfoInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\5.HW_EditHelloCSharp\obj\Debug\netcoreapp3.1\5.HW_EditHelloCSharp.AssemblyInfo.cs
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\5.HW_EditHelloCSharp\obj\Debug\netcoreapp3.1\5.HW_EditHelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\5.HW_EditHelloCSharp\obj\Debug\netcoreapp3.1\5.HW_EditHelloCSharp.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\5.HW_EditHelloCSharp\obj\Debug\netcoreapp3.1\5.HW_EditHelloCSharp.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\5.HW_EditHelloCSharp\obj\Debug\netcoreapp3.1\5.HW_EditHelloCSharp.genruntimeconfig.cache

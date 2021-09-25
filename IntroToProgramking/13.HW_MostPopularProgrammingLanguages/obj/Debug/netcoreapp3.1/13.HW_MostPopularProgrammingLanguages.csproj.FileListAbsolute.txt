@@ -1,0 +1,13 @@
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\13.HW_MostPopularProgrammingLanguages\bin\Debug\netcoreapp3.1\13.HW_MostPopularProgrammingLanguages.exe
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\13.HW_MostPopularProgrammingLanguages\bin\Debug\netcoreapp3.1\13.HW_MostPopularProgrammingLanguages.deps.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\13.HW_MostPopularProgrammingLanguages\bin\Debug\netcoreapp3.1\13.HW_MostPopularProgrammingLanguages.runtimeconfig.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\13.HW_MostPopularProgrammingLanguages\bin\Debug\netcoreapp3.1\13.HW_MostPopularProgrammingLanguages.runtimeconfig.dev.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\13.HW_MostPopularProgrammingLanguages\bin\Debug\netcoreapp3.1\13.HW_MostPopularProgrammingLanguages.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\13.HW_MostPopularProgrammingLanguages\bin\Debug\netcoreapp3.1\13.HW_MostPopularProgrammingLanguages.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\13.HW_MostPopularProgrammingLanguages\obj\Debug\netcoreapp3.1\13.HW_MostPopularProgrammingLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\13.HW_MostPopularProgrammingLanguages\obj\Debug\netcoreapp3.1\13.HW_MostPopularProgrammingLanguages.AssemblyInfoInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\13.HW_MostPopularProgrammingLanguages\obj\Debug\netcoreapp3.1\13.HW_MostPopularProgrammingLanguages.AssemblyInfo.cs
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\13.HW_MostPopularProgrammingLanguages\obj\Debug\netcoreapp3.1\13.HW_MostPopularProgrammingLanguages.csproj.CoreCompileInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\13.HW_MostPopularProgrammingLanguages\obj\Debug\netcoreapp3.1\13.HW_MostPopularProgrammingLanguages.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\13.HW_MostPopularProgrammingLanguages\obj\Debug\netcoreapp3.1\13.HW_MostPopularProgrammingLanguages.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\13.HW_MostPopularProgrammingLanguages\obj\Debug\netcoreapp3.1\13.HW_MostPopularProgrammingLanguages.genruntimeconfig.cache

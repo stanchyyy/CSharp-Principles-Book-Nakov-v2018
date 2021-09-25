@@ -1,0 +1,13 @@
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\12.HW_ExplainNetCoreAndStandard\bin\Debug\netcoreapp3.1\12.HW_ExplainNetCoreAndStandard.exe
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\12.HW_ExplainNetCoreAndStandard\bin\Debug\netcoreapp3.1\12.HW_ExplainNetCoreAndStandard.deps.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\12.HW_ExplainNetCoreAndStandard\bin\Debug\netcoreapp3.1\12.HW_ExplainNetCoreAndStandard.runtimeconfig.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\12.HW_ExplainNetCoreAndStandard\bin\Debug\netcoreapp3.1\12.HW_ExplainNetCoreAndStandard.runtimeconfig.dev.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\12.HW_ExplainNetCoreAndStandard\bin\Debug\netcoreapp3.1\12.HW_ExplainNetCoreAndStandard.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\12.HW_ExplainNetCoreAndStandard\bin\Debug\netcoreapp3.1\12.HW_ExplainNetCoreAndStandard.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\12.HW_ExplainNetCoreAndStandard\obj\Debug\netcoreapp3.1\12.HW_ExplainNetCoreAndStandard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\12.HW_ExplainNetCoreAndStandard\obj\Debug\netcoreapp3.1\12.HW_ExplainNetCoreAndStandard.AssemblyInfoInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\12.HW_ExplainNetCoreAndStandard\obj\Debug\netcoreapp3.1\12.HW_ExplainNetCoreAndStandard.AssemblyInfo.cs
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\12.HW_ExplainNetCoreAndStandard\obj\Debug\netcoreapp3.1\12.HW_ExplainNetCoreAndStandard.csproj.CoreCompileInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\12.HW_ExplainNetCoreAndStandard\obj\Debug\netcoreapp3.1\12.HW_ExplainNetCoreAndStandard.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\12.HW_ExplainNetCoreAndStandard\obj\Debug\netcoreapp3.1\12.HW_ExplainNetCoreAndStandard.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\12.HW_ExplainNetCoreAndStandard\obj\Debug\netcoreapp3.1\12.HW_ExplainNetCoreAndStandard.genruntimeconfig.cache

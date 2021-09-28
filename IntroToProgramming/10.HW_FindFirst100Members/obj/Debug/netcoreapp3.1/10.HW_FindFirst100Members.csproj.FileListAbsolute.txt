@@ -11,3 +11,17 @@ C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\10.
 C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\10.HW_FindFirst100Members\obj\Debug\netcoreapp3.1\10.HW_FindFirst100Members.dll
 C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\10.HW_FindFirst100Members\obj\Debug\netcoreapp3.1\10.HW_FindFirst100Members.pdb
 C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramking\10.HW_FindFirst100Members\obj\Debug\netcoreapp3.1\10.HW_FindFirst100Members.genruntimeconfig.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\bin\Debug\netcoreapp3.1\10.HW_FindFirst100Members.exe
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\bin\Debug\netcoreapp3.1\10.HW_FindFirst100Members.deps.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\bin\Debug\netcoreapp3.1\10.HW_FindFirst100Members.runtimeconfig.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\bin\Debug\netcoreapp3.1\10.HW_FindFirst100Members.runtimeconfig.dev.json
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\bin\Debug\netcoreapp3.1\10.HW_FindFirst100Members.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\bin\Debug\netcoreapp3.1\10.HW_FindFirst100Members.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\obj\Debug\netcoreapp3.1\10.HW_FindFirst100Members.csproj.AssemblyReference.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\obj\Debug\netcoreapp3.1\10.HW_FindFirst100Members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\obj\Debug\netcoreapp3.1\10.HW_FindFirst100Members.AssemblyInfoInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\obj\Debug\netcoreapp3.1\10.HW_FindFirst100Members.AssemblyInfo.cs
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\obj\Debug\netcoreapp3.1\10.HW_FindFirst100Members.csproj.CoreCompileInputs.cache
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\obj\Debug\netcoreapp3.1\10.HW_FindFirst100Members.dll
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\obj\Debug\netcoreapp3.1\10.HW_FindFirst100Members.pdb
+C:\Users\Stani\Desktop\CSharp-Principles-Book-Nakov-v2018\IntroToProgramming\10.HW_FindFirst100Members\obj\Debug\netcoreapp3.1\10.HW_FindFirst100Members.genruntimeconfig.cache
